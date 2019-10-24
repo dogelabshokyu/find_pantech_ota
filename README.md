@@ -24,4 +24,4 @@ https://blog.naver.com/wsmkim/220229493538
 
 
 # 가능성
-만약 http://apkmanager.vegaservice.co.kr 주소가 http://update.pantech.onestopfile.co.kr 와 바로 연결되어있다면 PDL 업데이트도 
+만약 http://apkmanager.vegaservice.co.kr 주소가 http://update.pantech.onestopfile.co.kr 와 바로 연결되어있다면 PDL 업데이트도 문제없다.  
