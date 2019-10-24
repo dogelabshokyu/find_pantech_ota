@@ -15,4 +15,4 @@ https://itmir.tistory.com/341
 2013/e77eb15c90.apk  
 2014/5d880ab97e.apk  
 
-2012/f660c704bd.apk 파일은 없음
+2012/f660c704bd.apk 파일은 없음 아마 최신버전이 아니라 그런듯
